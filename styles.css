@@ -1,0 +1,49 @@
+
+h1{
+    color: cornflowerblue;
+    font-size: 110px;
+    font-family: sans-serif;
+    padding-bottom: 20px;    
+}
+p{
+    color: black;
+    font-size: 40px;
+    font-family: sans-serif;
+    
+}
+
+#menu a{
+    color: white;
+    font-family: helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: royalblue;
+}
+
+h2{
+    color: dodgerblue;
+    font-size: 50px;
+    font-family: serif;
+}
+h3{
+    font-size: 40px;
+    color: black;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+th{
+    font-weight: 400;
+    background-color: darkgreen;
+    color: orange;
+}
